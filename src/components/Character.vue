@@ -1,6 +1,6 @@
 <template>
     <div class="character text-center">
-        <img :src="info.image" alt="">
+        <img :src="info.image" alt="info.name">
         <h3>{{info.name}}</h3>
         <hr>
         <div>{{info.origin}}</div>
