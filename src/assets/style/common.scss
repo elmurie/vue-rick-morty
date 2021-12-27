@@ -7,4 +7,12 @@
 
 body {
     font-family: $mainFont;
+    min-height: 100vh;
+    color: #fff;
+    background: rgba(0, 0, 0, 0.5);
+    background-image: url('https://i.imgur.com/CFqAGQ6.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
 }
